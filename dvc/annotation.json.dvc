@@ -1,0 +1,6 @@
+md5: 999a59a76c24216115cd00df69d690ed
+outs:
+- cache: true
+  md5: 7362f38a584573414da6e59f656f428d
+  metric: false
+  path: annotation.json
