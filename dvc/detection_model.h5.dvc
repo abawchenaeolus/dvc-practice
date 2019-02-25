@@ -1,0 +1,6 @@
+md5: 9392c7197b6da77e9e51b7523ad5366d
+outs:
+- cache: true
+  md5: ab39abfec6893961e80d658e197ef7bf
+  metric: false
+  path: detection_model.h5
